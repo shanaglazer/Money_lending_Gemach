@@ -11,7 +11,7 @@
 
 /*
 I am a the manager of a money lending Gemach - and I am interested in arranging the Gemach information. 
-I need the borrower's first name, last name, phone number, address, date of loan, repayment date, date the loan was repaid and the loan sum.
+I need the borrower's first name, last name, phone number, address, date loan was taken, date loan is due, date the loan was repaid and the loan sum.
 
 I would like the following reports:
 
